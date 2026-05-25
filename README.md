@@ -44,7 +44,9 @@ git clone https://github.com/RaisulChayon/WeeklyExpenditureTracker/tree/src.git
 ## 📁 Project Structure
 
 ```
-.
+WeeklyExpenditureTracker.java
+Expense.java
+ExpenseTrackerGUI.java
 ```
 
 ## 👥 Contributing
