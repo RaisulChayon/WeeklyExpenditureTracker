@@ -54,7 +54,7 @@ ExpenseTrackerGUI.java
 Contributions are welcome! Here's the standard flow:
 
 1. **Fork** the repository
-2. **Clone** your fork: `git clone https://github.com/RaisulChayon/WeeklyExpenditureTracker/tree/src.git`
+2. **Clone** your fork: `git clone https://github.com/RaisulChayon/WeeklyExpenditureTracker.git`
 3. **Branch**: `git checkout -b feature/your-feature`
 4. **Commit**: `git commit -m 'feat: add some feature'`
 5. **Push**: `git push origin feature/your-feature`
